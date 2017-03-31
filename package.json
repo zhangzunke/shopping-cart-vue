@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/zhangzunke/shopping-cart-vue/issues"
   },
-  "homepage": "https://github.com/zhangzunke/shopping-cart-vue#readme"
+  "homepage": "https://github.com/zhangzunke/shopping-cart-vue#readme",
+  "dependencies": {
+    "vue": "^2.2.6",
+    "vue-resource": "^1.2.1"
+  }
 }
